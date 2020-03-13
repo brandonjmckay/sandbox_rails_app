@@ -5,6 +5,11 @@ class ApplicationController < ActionController::Base
       if 'woot'
         if 'wang'
           puts 'woot' if true if true
+          if !'cheese'
+            puts 'go add some cheese'
+          else
+            puts 'good start, melt it'
+          end
         end
       end
     end
