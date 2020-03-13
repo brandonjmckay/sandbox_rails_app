@@ -14,4 +14,4 @@ require:
 - rubocop-rails
 - rubocop-rspec
 inherit_from:
-  - '.config/rubocops/default.yml'
+  - 'config/rubocops/default.yml'
