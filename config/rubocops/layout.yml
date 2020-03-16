@@ -536,6 +536,10 @@ Layout/Tab:
   StyleGuide: https://github.com/rubocop-hq/ruby-style-guide#spaces-indentation
   Enabled: true
 
+Layout/LineLength:
+  Max: 100
+  AllowURI: true
+
 # Supports --auto-correct
 Layout/TrailingEmptyLines:
   Description: Checks trailing blank lines and final newline.
