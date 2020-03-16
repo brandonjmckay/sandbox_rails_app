@@ -45,7 +45,7 @@ Lint/DuplicateMethods:
   Description: Check for duplicate methods calls.
   Enabled: true
 
-Lint/DuplicatedHashKey:
+Lint/DuplicatedKey:
   Description: Check for duplicate keys in hash literals.
   Enabled: true
 
